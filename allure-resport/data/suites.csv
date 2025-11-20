@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","test_soma_positiva","","2025-11-18","passed","2025-11-18","","test_soma","",""
+"","0","test_soma_negativa","","2025-11-18","passed","2025-11-18","","test_soma","",""
+"","0","test_soma_valor_alto","","2025-11-18","passed","2025-11-18","","test_soma","",""
