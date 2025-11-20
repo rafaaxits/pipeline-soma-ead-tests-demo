@@ -1,5 +1,5 @@
 name: CI - Testes Automatizados
-
+# movendo para o caminho correto
 on: [push, pull_request]
 
 jobs:
