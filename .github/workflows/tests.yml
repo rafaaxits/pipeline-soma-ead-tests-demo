@@ -12,7 +12,6 @@ jobs:
       - name: Instalar dependências
         run: |
           pip install pytest
-          pip install allure-pytest
 
       - name: Executar Testes
         run: pytest -v
