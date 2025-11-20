@@ -18,5 +18,3 @@ jobs:
       - name: Executar testes
         run: |
           pytest -v
-          allure serve reports/
-          allure serve reports/
