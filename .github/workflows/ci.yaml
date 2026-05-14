@@ -1,4 +1,4 @@
-name: CI - Testes Automatizados
+name: CI - Testes Automatizados - T6
 
 on: [push, pull_request]
 

@@ -1,0 +1,30 @@
+{
+    "name": "test_soma_positiva",
+    "status": "passed",
+    "start": 1778201306972,
+    "stop": 1778201306972,
+    "uuid": "bc2f9d6e-f881-4883-ba09-d677b06efe6a",
+    "historyId": "9f9c697a5f0acec884e78c3afa35c871",
+    "testCaseId": "9f9c697a5f0acec884e78c3afa35c871",
+    "fullName": "test_soma#test_soma_positiva",
+    "labels": [{
+        "name": "suite",
+        "value": "test_soma"
+    }, {
+        "name": "host",
+        "value": "Rafael-PCMaster"
+    }, {
+        "name": "thread",
+        "value": "13944-MainThread"
+    }, {
+        "name": "framework",
+        "value": "pytest"
+    }, {
+        "name": "language",
+        "value": "cpython3"
+    }, {
+        "name": "package",
+        "value": "test_soma"
+    }],
+    "titlePath": ["test_soma.py"]
+}
