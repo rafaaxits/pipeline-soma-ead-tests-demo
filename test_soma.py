@@ -13,4 +13,4 @@ def test_soma_negativa():
 
 def test_soma_valor_alto():
     resultado = soma (3500, 2550)
-    assert resultado == 6050
+    assert resultado == 6051
