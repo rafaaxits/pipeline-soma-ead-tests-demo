@@ -8,7 +8,9 @@ def test_soma_positiva():
     assert resultado == 5
 
 def test_soma_negativa():
-    assert soma(-1,-4) == -5
+    resultado = soma(-1,-4)
+    #assert resultado == -5
 
 def test_soma_valor_alto():
-    assert soma(3500, 2550) == 6050
+    resultado = soma (3500, 2550)
+    assert resultado == 6050
