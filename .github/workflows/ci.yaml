@@ -10,9 +10,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Instalar dependências
-        uses: |
+        run: |
           pip install pytest
           pip install allure-pytest
 
       - name: Executar os testes
-        uses: pytest -v
+        run: pytest -v
