@@ -1,8 +1,8 @@
 from app import soma
 import allure
 
-def test_soma_positiva():
-    with allure.step("Somando dois números positivos"):
+def test_soma_positivo():
+    with allure.step("Somando dois número positivos"):
         resultado = soma(2,3)
     allure.attach(str(resultado), name="resultado", attachment_type=allure.attachment_type.TEXT)
     assert resultado == 5
@@ -12,5 +12,5 @@ def test_soma_negativa():
     assert resultado == -5
 
 def test_soma_valor_alto():
-    resultado = soma (3500, 2550)
+    resultado = soma(3500, 2550)
     assert resultado == 6050
